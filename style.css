@@ -134,10 +134,10 @@ img {
 }
 
 @media screen and (max-width: 920px) {
-    main {
-        height: 150vh;
-    }
-    
+/*     main {
+        min-height: 150vh;
+    } */
+
     .container {
         margin-top: 5rem;
         min-width: 480px;
